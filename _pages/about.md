@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! Thanks for visiting. I am Srija, a first year Masters student at [AI4Bharat](https://dsai.iitm.ac.in/), [IIT, Madras](https://www.iitm.ac.in/) where I am advised by [Prof. Mitesh Khapra](http://www.cse.iitm.ac.in/~miteshk/). Before joining as a Masters student, I worked as a Research Assistant at the lab (AI4Bharat) for a year. I completed by B.Tech in Electronics and Communication Engineering from [IIIT, Delhi](https://iiitd.ac.in/) in 2021.
+Hi! Thanks for visiting. I am Srija, a first year Masters student at [AI4Bharat](https://ai4bharat.iitm.ac.in/), [IIT, Madras](https://www.iitm.ac.in/) where I am advised by [Prof. Mitesh Khapra](http://www.cse.iitm.ac.in/~miteshk/). Before joining as a Masters student, I worked as a Research Assistant at the lab AI4Bharat for a year. I completed by B.Tech in Electronics and Communication Engineering from [IIIT, Delhi](https://iiitd.ac.in/) in 2021.
 
 Currently, my research interests align towards Text to Speech Synthesis (TTS).I work on building natural-sounding speech for the Indic languages with support for multiple voices, emotions and prosodic variations. My interest in Speech stems from the Speech Synthesis course taught by [Prof. Pravesh Biyani](https://www.iiitd.ac.in/praveshb) at IIIT Delhi, back in 2020. My work on improving pronunciations in TTS systems [IndicOOV: Enhancing](https://arxiv.org/pdf/2407.13435) recently got accepted at [INTERSPEECH 2024](https://interspeech2024.org/)
 
