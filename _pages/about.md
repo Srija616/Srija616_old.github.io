@@ -7,7 +7,11 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
 <<<<<<< HEAD
+<<<<<<< HEAD
   image: Photo.jpeg
+=======
+  image: prof_pic.jpg
+>>>>>>> parent of 30e87e7 (Added news section, photo, and made some changes to the about section)
 =======
   image: prof_pic.jpg
 >>>>>>> parent of 30e87e7 (Added news section, photo, and made some changes to the about section)
@@ -23,7 +27,11 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hi! Thanks for visiting. I am Srija, a first year Masters student at [AI4Bharat](https://ai4bharat.iitm.ac.in/), [IIT, Madras](https://www.iitm.ac.in/) where I am advised by [Prof. Mitesh Khapra](http://www.cse.iitm.ac.in/~miteshk/). Before joining as a Masters student, I worked as a Research Assistant at the lab AI4Bharat for a year. I completed by B.Tech in Electronics and Communication Engineering from [IIIT, Delhi](https://iiitd.ac.in/) in 2021.
+=======
+Hi! Thanks for visiting. I am Srija, a first year Masters student at [AI4Bharat](https://dsai.iitm.ac.in/), [IIT, Madras](https://www.iitm.ac.in/) where I am advised by [Prof. Mitesh Khapra](http://www.cse.iitm.ac.in/~miteshk/). Before joining as a Masters student, I worked as a Research Assistant at the lab (AI4Bharat) for a year. I completed by B.Tech in Electronics and Communication Engineering from [IIIT, Delhi] in 2021.
+>>>>>>> parent of 30e87e7 (Added news section, photo, and made some changes to the about section)
 =======
 Hi! Thanks for visiting. I am Srija, a first year Masters student at [AI4Bharat](https://dsai.iitm.ac.in/), [IIT, Madras](https://www.iitm.ac.in/) where I am advised by [Prof. Mitesh Khapra](http://www.cse.iitm.ac.in/~miteshk/). Before joining as a Masters student, I worked as a Research Assistant at the lab (AI4Bharat) for a year. I completed by B.Tech in Electronics and Communication Engineering from [IIIT, Delhi] in 2021.
 >>>>>>> parent of 30e87e7 (Added news section, photo, and made some changes to the about section)
