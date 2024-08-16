@@ -6,15 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-<<<<<<< HEAD
-<<<<<<< HEAD
   image: Photo.jpeg
-=======
-  image: prof_pic.jpg
->>>>>>> parent of 30e87e7 (Added news section, photo, and made some changes to the about section)
-=======
-  image: prof_pic.jpg
->>>>>>> parent of 30e87e7 (Added news section, photo, and made some changes to the about section)
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -25,16 +17,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-<<<<<<< HEAD
-<<<<<<< HEAD
 Hi! Thanks for visiting. I am Srija, a first year Masters student at [AI4Bharat](https://ai4bharat.iitm.ac.in/), [IIT, Madras](https://www.iitm.ac.in/) where I am advised by [Prof. Mitesh Khapra](http://www.cse.iitm.ac.in/~miteshk/). Before joining as a Masters student, I worked as a Research Assistant at the lab AI4Bharat for a year. I completed by B.Tech in Electronics and Communication Engineering from [IIIT, Delhi](https://iiitd.ac.in/) in 2021.
-=======
-Hi! Thanks for visiting. I am Srija, a first year Masters student at [AI4Bharat](https://dsai.iitm.ac.in/), [IIT, Madras](https://www.iitm.ac.in/) where I am advised by [Prof. Mitesh Khapra](http://www.cse.iitm.ac.in/~miteshk/). Before joining as a Masters student, I worked as a Research Assistant at the lab (AI4Bharat) for a year. I completed by B.Tech in Electronics and Communication Engineering from [IIIT, Delhi] in 2021.
->>>>>>> parent of 30e87e7 (Added news section, photo, and made some changes to the about section)
-=======
-Hi! Thanks for visiting. I am Srija, a first year Masters student at [AI4Bharat](https://dsai.iitm.ac.in/), [IIT, Madras](https://www.iitm.ac.in/) where I am advised by [Prof. Mitesh Khapra](http://www.cse.iitm.ac.in/~miteshk/). Before joining as a Masters student, I worked as a Research Assistant at the lab (AI4Bharat) for a year. I completed by B.Tech in Electronics and Communication Engineering from [IIIT, Delhi] in 2021.
->>>>>>> parent of 30e87e7 (Added news section, photo, and made some changes to the about section)
 
 Currently, my research interests align with Text to Speech Synthesis (TTS) and building natural-sounding speech for the 22 official Indian languages. I am also thinking about evaluation methods in Text-to-Speech and improving both objective and human evaluation techniques for TTS. My interest in Speech stems from the Speech Synthesis course taught by [Prof. Pravesh Biyani](https://www.iiitd.ac.in/praveshb) at IIIT Delhi, back in 2020.
 
