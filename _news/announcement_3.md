@@ -6,5 +6,5 @@ inline: true
 related_posts: false
 ---
 
-Our paper [IndicOOV:Enhancing Out-of-Vocabulary Performance of Indian TTS Systems for
-Practical Applications through Low-Effort Data Strategies](https://arxiv.org/pdf/2407.13435) accepted at INTERSPEECH 2024!
+Our paper [Enhancing Out of Vocabulary Performance of Indian TTS Systems for
+Practical Applications through Low Effort Data Strategies](https://arxiv.org/pdf/2407.13435) accepted at INTERSPEECH 2024!
